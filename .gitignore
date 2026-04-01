@@ -1,0 +1,21 @@
+### Unreal Engine standard ignores
+
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# IDE / build system
+.vs/
+.idea/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+

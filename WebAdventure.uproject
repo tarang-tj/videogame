@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "WebAdventure – 3D action-adventure prototype (UE5 C++)",
+	"Modules": [
+		{
+			"Name": "WebAdventure",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
